@@ -419,7 +419,7 @@ we've seen so far (including finding the relevant documentation).
 **Exercise 2**
 The goal is to make the figure :ref:`figure-inch-cm` that shows a dual axis, one
 in inches and one in centimeters. The difficulty is that we want the
-centimeters and inched to be physically correct when printed. This requires
+centimeters and inches to be physically correct when printed. This requires
 some simple computations for finding the right size and some trials and errors
 to make the actual figure. Don't pay too much attention to all the details, the
 essential part is to get the size right. 
